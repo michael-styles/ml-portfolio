@@ -4,3 +4,8 @@ This repository serves as an index and narrative guide to my machine learning le
 The projects referenced here emphasize disciplined fundamentals over algorithmic novelty. Each project is intentionally scoped to explore a specific modeling concept, common pitfalls, and decision-making implications, with written summaries that capture lessons learned and areas for improvement. Where appropriate, projects include executive-style briefs intended to communicate findings to non-technical stakeholders.
 This portfolio is being developed as part of a broader professional transition into applied machine learning and data science. It reflects a deliberate focus on depth, clarity of reasoning, and practical judgment rather than leaderboard performance or surface-level demonstrations.
 Projects are organized as individual repositories and progress from foundational models (e.g., linear and logistic regression) toward more complex predictive and decision-focused applications. Together, they form a cumulative record of technical growth, modeling maturity, and applied thinking.
+
+## Projects
+
+- **Linear Regression Foundations**  
+  https://github.com/michael-styles/ml-linear-regression-foundations
